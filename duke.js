@@ -1,12 +1,12 @@
 var chatJson = {
     "chat": [
         {
-            "time": "18 minutes ago",
+            "time": "19 minutes ago",
             "text": "Awaiting Duke to change the program.\n...",
             "user": "duke"
         },
         {
-            "time": "18 minutes ago",
+            "time": "19 minutes ago",
             "text": "wow that was fast\nhey duke :) i'm the director and lead dev for codevera. pleasure to meet you.",
             "user": "ski"
         },
@@ -16,17 +16,17 @@ var chatJson = {
             "user": "astro"
         },
         {
-            "time": "17 minutes ago",
+            "time": "18 minutes ago",
             "text": "that was gas not slack lol",
             "user": "ski"
         },
         {
-            "time": "17 minutes ago",
+            "time": "18 minutes ago",
             "text": "I also love gas as I've previously mentioned",
             "user": "astro"
         },
         {
-            "time": "17 minutes ago",
+            "time": "18 minutes ago",
             "text": "you love too much",
             "user": "ski"
         }
