@@ -1,34 +1,29 @@
 var chatJson = {
     "chat": [
         {
-            "time": "5 days ago",
-            "text": "@(big dom) test to see how this looks to the api",
-            "user": "ski"
-        },
-        {
-            "time": "5 days ago",
-            "text": "we're done! :)",
+            "time": "a minute ago",
+            "text": "Awaiting Duke to change the program.\n...",
             "user": "duke"
         },
         {
-            "time": "5 days ago",
-            "text": "[image attached] ",
-            "user": "big dom"
-        },
-        {
-            "time": "5 days ago",
-            "text": "you probably need to restart the app",
+            "time": "a minute ago",
+            "text": "wow that was fast",
             "user": "ski"
         },
         {
-            "time": "5 days ago",
-            "text": "changed it to green",
+            "time": "a few seconds ago",
+            "text": "I love slack",
+            "user": "astro"
+        },
+        {
+            "time": "a few seconds ago",
+            "text": "that was gas not slack lol",
             "user": "ski"
         },
         {
-            "time": "5 days ago",
-            "text": "[image attached] ",
-            "user": "ski"
+            "time": "a few seconds ago",
+            "text": "I also love gas as I've previously mentioned",
+            "user": "astro"
         }
     ],
     "hash": "4225074d4e29bf049913ef44d76f3bce"
