@@ -11,22 +11,22 @@ var chatJson = {
             "user": "duke"
         },
         {
-            "time": "4 days ago",
+            "time": "5 days ago",
             "text": "[image attached] ",
             "user": "big dom"
         },
         {
-            "time": "4 days ago",
+            "time": "5 days ago",
             "text": "you probably need to restart the app",
             "user": "ski"
         },
         {
-            "time": "4 days ago",
+            "time": "5 days ago",
             "text": "changed it to green",
             "user": "ski"
         },
         {
-            "time": "4 days ago",
+            "time": "5 days ago",
             "text": "[image attached] ",
             "user": "ski"
         }
