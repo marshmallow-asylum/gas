@@ -29,6 +29,11 @@ var chatJson = {
             "time": "18 hours ago",
             "text": "you love too much",
             "user": "ski"
+        },
+        {
+            "time": "a few seconds ago",
+            "text": "Can you guys see this? Only the loading screen is showing up for me...",
+            "user": "duke"
         }
     ],
     "hash": "ef050f4e1a69c31921df9f49d75ee4fe"
