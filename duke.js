@@ -6,22 +6,22 @@ var chatJson = {
             "user": "duke"
         },
         {
-            "time": "19 hours ago",
+            "time": "20 hours ago",
             "text": "wow that was fast\nhey duke :) i'm the director and lead dev for codevera. pleasure to meet you.",
             "user": "ski"
         },
         {
-            "time": "19 hours ago",
+            "time": "20 hours ago",
             "text": "I love slack",
             "user": "astro"
         },
         {
-            "time": "19 hours ago",
+            "time": "20 hours ago",
             "text": "that was gas not slack lol",
             "user": "ski"
         },
         {
-            "time": "19 hours ago",
+            "time": "20 hours ago",
             "text": "I also love gas as I've previously mentioned",
             "user": "astro"
         },
