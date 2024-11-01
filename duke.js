@@ -1,27 +1,27 @@
 var chatJson = {
     "chat": [
         {
-            "time": "21 hours ago",
+            "time": "a day ago",
             "text": "Awaiting Duke to change the program.\n...",
             "user": "duke"
         },
         {
-            "time": "21 hours ago",
+            "time": "a day ago",
             "text": "wow that was fast\nhey duke :) i'm the director and lead dev for codevera. pleasure to meet you.",
             "user": "ski"
         },
         {
-            "time": "21 hours ago",
+            "time": "a day ago",
             "text": "I love slack",
             "user": "astro"
         },
         {
-            "time": "21 hours ago",
+            "time": "a day ago",
             "text": "that was gas not slack lol",
             "user": "ski"
         },
         {
-            "time": "21 hours ago",
+            "time": "a day ago",
             "text": "I also love gas as I've previously mentioned",
             "user": "astro"
         },
@@ -36,12 +36,12 @@ var chatJson = {
             "user": "duke"
         },
         {
-            "time": "15 minutes ago",
+            "time": "16 minutes ago",
             "text": "this is quite the annoyance",
             "user": "ski"
         },
         {
-            "time": "13 minutes ago",
+            "time": "14 minutes ago",
             "text": "also if you see this, yes, i'm the one managin' the s'morez acc an' \"the developer\" mentioned. if i admit i'm ski on that account, it will get insta-banned. my name is on a blacklist",
             "user": "ski"
         }
