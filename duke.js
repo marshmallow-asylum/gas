@@ -36,8 +36,13 @@ var chatJson = {
             "user": "duke"
         },
         {
-            "time": "2 minutes ago",
+            "time": "3 minutes ago",
             "text": "this is quite the annoyance",
+            "user": "ski"
+        },
+        {
+            "time": "a minute ago",
+            "text": "also if you see this, yes, i'm the one managin' the s'morez acc an' \"the developer\" mentioned. if i admit i'm ski on that account, it will get insta-banned. my name is on a blacklist",
             "user": "ski"
         }
     ],
