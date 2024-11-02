@@ -44,7 +44,12 @@ var chatJson = {
             "time": "8 hours ago",
             "text": "also if you see this, yes, i'm the one managin' the s'morez acc an' \"the developer\" mentioned. if i admit i'm ski on that account, it will get insta-banned. my name is on a blacklist",
             "user": "ski"
+        },
+        {
+            "time": "A few seconds ago",
+            "text": "Hopefully I do not spam everytime I save. I do not really know if it re-sends the messages everytime I save. I am just trying a few things out. :)",
+            "user": "duke"
         }
     ],
-    "hash": "ef050f4e1a69c31921df9f49d75ee4fe"
+    "hash": "b1326d078f72230d43382399e5a9ee6d"
 }
