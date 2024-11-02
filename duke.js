@@ -56,7 +56,7 @@ var chatJson = {
             "user": "ski"
         },
         {
-            "time": "11 hours ago",
+            "time": "12 hours ago",
             "text": "Hey guys! Not sure if this will work. But I just found out a possible form of commuication... You should just need a google drive account. Tell me if you think would work.(and if it works on your end) <https://docs.google.com/spreadsheets/d/1VPm5-XyFNJC9Y3oREkfLzxODDaV5l2ns7pVrWNgPCXQ/edit?usp=sharing>",
             "user": "duke"
         },
@@ -66,7 +66,7 @@ var chatJson = {
             "user": "duke"
         },
         {
-            "time": "A few seconds ago",
+            "time": "a minute ago",
             "text": "Is everything working? Also who is who? :P",
             "user": "duke"
         }
