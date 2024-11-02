@@ -46,13 +46,13 @@ var chatJson = {
             "user": "ski"
         },
         {
-            "time": "a minute ago",
+            "time": "2 minutes ago",
             "text": "Hopefully I do not spam everytime I save. I do not really know if it re-sends the messages everytime I save. I am just trying a few things out. :)",
             "user": "duke"
         },
         {
-            "time": "a few seconds ago",
-            "text": "you only send a new message if you change the message :stuck_out_tongue:",
+            "time": "a minute ago",
+            "text": "you only send a new message if you change the message :p",
             "user": "ski"
         }
     ],
