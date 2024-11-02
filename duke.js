@@ -61,7 +61,7 @@ var chatJson = {
             "user": "duke"
         },
         {
-            "time": "36 minutes ago",
+            "time": "37 minutes ago",
             "text": "I just let someone in",
             "user": "duke"
         }
