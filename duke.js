@@ -46,18 +46,18 @@ var chatJson = {
             "user": "ski"
         },
         {
-            "time": "18 minutes ago",
+            "time": "19 minutes ago",
             "text": "Hopefully I do not spam everytime I save. I do not really know if it re-sends the messages everytime I save. I am just trying a few things out. :)",
             "user": "duke"
         },
         {
-            "time": "17 minutes ago",
+            "time": "18 minutes ago",
             "text": "you only send a new message if you change the message :p",
             "user": "ski"
         },
         {
-            "time": "A few seconds ago",
-            "text": "Hey guys! Not sure if this will work. But I just found out a possible form of commuication... You should just need a google drive account. Tell me if you think would work.(and if it works on your end) https://docs.google.com/spreadsheets/d/1VPm5-XyFNJC9Y3oREkfLzxODDaV5l2ns7pVrWNgPCXQ/edit?usp=sharing",
+            "time": "a minute ago",
+            "text": "Hey guys! Not sure if this will work. But I just found out a possible form of commuication... You should just need a google drive account. Tell me if you think would work.(and if it works on your end) <https://docs.google.com/spreadsheets/d/1VPm5-XyFNJC9Y3oREkfLzxODDaV5l2ns7pVrWNgPCXQ/edit?usp=sharing>",
             "user": "duke"
         }
     ],
