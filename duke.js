@@ -1,27 +1,27 @@
 var chatJson = {
     "chat": [
         {
-            "time": "4 days ago",
+            "time": "5 days ago",
             "text": "Awaiting Duke to change the program.\n...",
             "user": "duke"
         },
         {
-            "time": "4 days ago",
+            "time": "5 days ago",
             "text": "wow that was fast\nhey duke :) i'm the director and lead dev for codevera. pleasure to meet you.",
             "user": "ski"
         },
         {
-            "time": "4 days ago",
+            "time": "5 days ago",
             "text": "I love slack",
             "user": "astro"
         },
         {
-            "time": "4 days ago",
+            "time": "5 days ago",
             "text": "that was gas not slack lol",
             "user": "ski"
         },
         {
-            "time": "4 days ago",
+            "time": "5 days ago",
             "text": "I also love gas as I've previously mentioned",
             "user": "astro"
         },
