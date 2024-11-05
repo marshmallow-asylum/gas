@@ -81,12 +81,12 @@ var chatJson = {
             "user": "duke"
         },
         {
-            "time": "39 minutes ago",
+            "time": "40 minutes ago",
             "text": "If you send me the link to the possible website that you mentioned then I might be able to take a look at it.(more in the sheets)",
             "user": "duke"
         },
         {
-            "time": "17 minutes ago",
+            "time": "18 minutes ago",
             "text": "And I have replied :) Also sorry for the spam everything :sob: I feel really weird talking to no one yet talking.",
             "user": "duke"
         }
