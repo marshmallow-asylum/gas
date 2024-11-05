@@ -81,10 +81,15 @@ var chatJson = {
             "user": "duke"
         },
         {
-            "time": "21 minutes ago",
+            "time": "22 minutes ago",
             "text": "If you send me the link to the possible website that you mentioned then I might be able to take a look at it.(more in the sheets)",
+            "user": "duke"
+        },
+        {
+            "time": "A few seconds ago",
+            "text": "And I have replied :) Also sorry for the spam everything 😭 I feel really weird talking to no one yet talking.",
             "user": "duke"
         }
     ],
-    "hash": "67f43e78767d427113111d8ad0121204"
+    "hash": "6757adf4ad48ed74f991a9645abc6ce1"
 }
